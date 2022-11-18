@@ -1,0 +1,7 @@
+\#*\#
+*~
+*.sh
+*.build
+*.merlin
+*.merlinO
+temp*
